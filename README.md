@@ -13,6 +13,8 @@
 <br>Link to view <a href="https://lemming97.github.io/Advanced-CSS-Challenge-1/">Lindsey Martin's Portfolio</a>
 
 
-<br><img src="../Assets/images/FullSize.png" alt="screenshot 1 of the hero image and the nav bar" width="350"/>
+<br><img src="./Assets/images/FullSize.png" alt="screenshot 1 of the hero image and the nav bar" width="350"/>
 
-<br><img src="../Assets/images/ReducedSize.png" alt="screenshot 1 of the hero image and the nav bar" width="350"/>
+<br><img src="./Assets/images/ReducedSize.png" alt="screenshot 2 of the hero image and the nav bar at a reduced view" width="350"/>
+
+<br><img src="./Assets/images/mobile.png" alt="screenshot 3 of the work section on the mobile view" width="350"/>
